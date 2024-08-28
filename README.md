@@ -13,7 +13,8 @@
 
 ## Introduction
 
-This project presents a comprehensive analysis of the movie industry using the TMDB 5000 Movie Dataset. Through the power of Tableau, we've created interactive visualizations that offer deep insights into various aspects of the film industry, including financial performance, temporal trends, production company analysis, and audience reception.
+This project presents a comprehensive analysis of the movie industry using the TMDB 5000 Movie Dataset. 
+Through the power of Tableau, we've created interactive visualizations that offer deep insights into various aspects of the film industry, including financial performance, temporal trends, production company analysis, and audience reception.
 
 ## Dataset Description
 
